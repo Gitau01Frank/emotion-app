@@ -70,7 +70,7 @@ shame and guilt.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/emotion_app.git
+git clone https://github.com/Gitau01Frank/emotion_app.git
 cd emotion_app
 ```
 
